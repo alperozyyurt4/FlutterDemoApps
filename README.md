@@ -3,7 +3,7 @@ w<h1 align="center">Hi 👋, I'm Alper. These demos I developed and completed du
 <img src="./music_app_demo/appimages/MusicPlayer.png" width= 300 height = 540>
 <h3>Color Selector</h3>
 
-<p><img src="./color_selector_demo/appimages/ColorSelectorReset.png" width= 200 height = 540>  <img src="./color_selector_demo/appimages/ColorSelectorYellow.png" width= 200 height = 540>  <img src="./color_selector_demo/appimages/ColorSelectorBlue.png" width= 200 height = 540>  <img src="./color_selector_demo/appimages/ColorSelectorGreen.png" width= 200 height = 540>
+<p><img src="./color_selector_demo/appimages/ColorSelectorReset.png" width= 250 height = 540>  <img src="./color_selector_demo/appimages/ColorSelectorYellow.png" width= 250 height = 540>  <img src="./color_selector_demo/appimages/ColorSelectorBlue.png" width= 250 height = 540>  <img src="./color_selector_demo/appimages/ColorSelectorGreen.png" width= 250 height = 540>
 
 
 
