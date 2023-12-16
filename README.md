@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper. These demos I developed and completed during the Flutter learning process</h1>
 <h3>Music Player</h3>
-
 <img src="./appimages/MusicPlayer.png" width= 300 height = 540>
 
 <h3 align="left">Connect with me:</h3>
