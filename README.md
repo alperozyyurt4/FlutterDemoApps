@@ -3,8 +3,9 @@
 <img src="./music_app_demo/appimages/MusicPlayer.png" width= 300 height = 540>
 <h3>Color Selector</h3>
 
-<img src="./color_selector_demo/appimages/ColorSelector.png" width= 300 height = 540>
+<p><img src="./color_selector_demo/appimages/ColorSelector.png" width= 300 height = 540> <img src="./color_selector_demo/appimages/ColorSelector.png" width= 300 height = 540>
 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
