@@ -6,7 +6,7 @@
 <p><img src="./color_selector_demo/appimages/ColorSelectorReset.png" width= 200 height = 440>  <img src="./color_selector_demo/appimages/ColorSelectorYellow.png" width= 200 height = 440>  <img src="./color_selector_demo/appimages/ColorSelectorBlue.png" width= 200 height = 440>  <img src="./color_selector_demo/appimages/ColorSelectorGreen.png" width= 200 height = 440>
 </p>
 
-  <h3>Music Player</h3>
+  <h3>Calculator</h3>
   <img src="./calculator_demo/appimages/CalculatorScreen.png" width= 300 height = 540>
 
 <h3 align="left">Connect with me:</h3>
